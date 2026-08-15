@@ -4,8 +4,10 @@ Portable guidelines and skills shared across AI harnesses.
 
 ## Contents
 
-- **AGENTS.md:** shared working preferences, auto-loaded by all three harnesses.
-- **skills/:** shared skills in the common SKILL.md format; each harness wires this folder to its own skills directory.
+| File | Description |
+| --- | --- |
+| `AGENTS.md` | Shared working preferences, auto-loaded by all three harnesses. |
+| `skills/` | Shared skills in the common SKILL.md format; each harness wires this folder to its own skills directory. |
 
 ## Skills
 
